@@ -1,3 +1,4 @@
+#calculate shopping bill
 notebooks = 3
 notebook_price = 45
 
@@ -10,3 +11,7 @@ paid_amount = 500
 remaining_balance = paid_amount - total_bill
 print("total bill amount =",total_bill)
 print("remaining balance =",remaining_balance)
+
+#output
+"""total bill amount = 175
+remaining balance = 325"""
