@@ -4,3 +4,8 @@ t = float(input("Enter Time: "))
 
 si = (p * r * t) / 100
 print("Simple Interest =", si)
+
+#output
+"""Enter Principal: 10000
+Enter Rate: 5
+Enter Time: 2"""

@@ -8,3 +8,10 @@ a = a - b
 print("After Swapping:")
 print("a =", a)
 print("b =", b)
+
+#output
+"""Enter first number: 23
+Enter second number: 54
+After Swapping:
+a = 54
+b = 23"""
