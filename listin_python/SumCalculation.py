@@ -16,4 +16,13 @@ sum = 0
 for num in numbers:
     sum += num
 
-print(sum)
+print("summ of numbers:",sum)
+
+#output
+"""enter number of elements: 4
+enter a number: 3
+enter a number: 5
+enter a number: 7
+enter a number: 9
+numbers are: [3, 5, 7, 9]
+summ of numbers: 24"""

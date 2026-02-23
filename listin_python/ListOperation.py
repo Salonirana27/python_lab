@@ -36,3 +36,17 @@ for index in range(1, length):
         max = numbers[index]
 
 print("maximum number is:", max)
+#output
+"""[23, 45, 67, 85, 43]
+85
+numbers are:
+23 45 67 85 43
+23
+45
+67
+85
+43
+length of a list: 5
+43 85 67 45 23
+sum of all numbers in list: 263
+maximum number is: 85"""

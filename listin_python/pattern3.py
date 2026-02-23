@@ -4,3 +4,11 @@ if n > 0:
         print(" " * (n - rows) + "*" * (2 * rows - 1))
 else:
     print("not possible")
+    
+    #output
+    """enter number of rows: 5
+    *
+   ***
+  *****
+ *******
+*********"""
